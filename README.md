@@ -32,7 +32,7 @@ description: 愿你看清一切真相后，依旧热爱你的家人和朋友。
   - 网站和博客可以长草，但不要滥竽充数
   - 最终解释权归我本人所有
 - 您的站点符合中国大陆及中国香港的有关法律法规，不涉及敏感内容
-- 此外，您还必须会使用Git与GitHub，设置此仓库即意在考验您最基本的使用技巧
+- 此外，您还必须会使用`Git`与`GitHub`，设置此仓库即意在考验您最基本的使用技巧
 
 ## 开始交换
 ---
@@ -59,7 +59,7 @@ description: 愿你看清一切真相后，依旧热爱你的家人和朋友。
 
 ## 交换步骤
 1. 在`GitHub`上派生(`Fork`)这个仓库
-2. 【可选但强烈建议】在`src/friends.json`目录中提交你的站点logo
+2. 【可选但强烈建议】在`src/links.yml`目录中提交你的站点logo
   - 文件名格式为`[domain].[format]`，如`example.com.png`，`blog.example.com.jpg`
   - `commit`的标题应当名为`Add: [filename] ( [url] )`，如`Add: example.com.png ( https://example.com )`
   - 原则上应小于`1 MiB`
