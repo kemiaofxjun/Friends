@@ -79,7 +79,7 @@ description: 愿你看清一切真相后，依旧热爱你的家人和朋友。
   - 如有补充，请在PR中一并说明，例如特殊的RSS地址等
  
 ---
-除了上述做法，完全不会的直接在issue里添加友链也行。
+除了上述做法，完全不会的直接在[issue](https://github.com/kemiaofxjun/Friends/issues/1)里添加友链也行。
 
 ## 出现问题的友链
 ---
