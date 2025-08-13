@@ -77,6 +77,9 @@ description: 愿你看清一切真相后，依旧热爱你的家人和朋友。
 4. 完成上述步骤后，请新建一个`Pull Request`
   - PR标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`
   - 如有补充，请在PR中一并说明，例如特殊的RSS地址等
+ 
+---
+除了上述做法，完全不会的直接在issue里添加友链也行。
 
 ## 出现问题的友链
 ---
