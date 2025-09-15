@@ -63,7 +63,7 @@ description: 愿你看清一切真相后，依旧热爱你的家人和朋友。
   - 文件名格式为`[domain].[format]`，如`example.com.png`，`blog.example.com.jpg`
   - `commit`的标题应当名为`Add: [filename] ( [url] )`，如`Add: example.com.png ( https://example.com )`
   - 原则上应小于`1 MiB`
-3. 修改`src/links.yml`文件和`src/links.json`
+3. 修改`src/links.yml`文件和`links.json`
   - 按照如下格式将你的网站信息添加到 `links.yml` 文件的末尾：
   ```
   "Name": # 名称置于双引号之中，不要太长
