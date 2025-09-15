@@ -2,8 +2,8 @@
 
 ```
 title: 喵落阁
-url: https://myboke.kemeow.top
-avatar: https://img.314926.xyz/images/2025/08/09/kemiaofxjun.webp
+url: https://home.kemeow.top
+avatar: https://www.gravatar.com/avatar/7614b285e795f21e780247019c4e15c4?s=256
 description: 愿你看清一切真相后，依旧热爱你的家人和朋友。
 ```
 ## 基本要求
@@ -63,7 +63,7 @@ description: 愿你看清一切真相后，依旧热爱你的家人和朋友。
   - 文件名格式为`[domain].[format]`，如`example.com.png`，`blog.example.com.jpg`
   - `commit`的标题应当名为`Add: [filename] ( [url] )`，如`Add: example.com.png ( https://example.com )`
   - 原则上应小于`1 MiB`
-3. 修改`src/links.yml`文件
+3. 修改`src/links.yml`文件和`src/links.json`
   - 按照如下格式将你的网站信息添加到 `links.yml` 文件的末尾：
   ```
   "Name": # 名称置于双引号之中，不要太长
