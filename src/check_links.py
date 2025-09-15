@@ -1,5 +1,5 @@
 import json
-from smart_checker import is_alive  # 引入上面的函数
+from smart_checker import is_alive
 
 with open("src/links.json", "r", encoding="utf-8") as f:
     links = json.load(f)
